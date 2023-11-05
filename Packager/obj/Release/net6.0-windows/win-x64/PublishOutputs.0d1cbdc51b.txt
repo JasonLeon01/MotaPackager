@@ -1,0 +1,2 @@
+E:\Packager.pdb
+E:\Packager.exe

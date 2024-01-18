@@ -1,1 +1,4 @@
 .vs
+Packager/bin/
+Packager/obj/
+Packager/Properties/
